@@ -1,0 +1,51 @@
+********************* 2008-2010 (c) by RocketRider ** 3DGW.RRSoftware.de ****
+******* 3DGameWizard ******************************************************
+**************************************************** V. 1.2 *************
+** http://www.RRSoftware.de *******************************************
+*********************************************************************
+
+How to create your first game:
+------------------------------
+To create your first game you have start the 3DGameWizard.exe.
+On the right side you can select objects wich were added to the map if you click with the mouse on the map.
+You have to set the object "start point"(traffic lights symbol) and "finish point" (chequered flag).
+In the menu "Edit" with the menu point "Game options" you can set the name, logo, music, icon,... of your game.
+If you finished with your map, you can save and export the game in the "File" menu.
+The Game-creator will create a standalone executable file. You are free to do what you want with this game. You could also use it commercially.
+
+
+
+How to start the game:
+----------------------
+If you want to start your game, you have to run the executable which was created by the editor.
+In the game you have to click on the knight, wolf or on the campfire to start the game.
+
+
+How to change the options of a game:
+------------------------------------
+If you want to use fullscreen or change any other option in your game you have to change this in the options.
+You find the settings on the "shield in the castle" of the game menu.
+The options:
+Sound on:		Here you can turn of the sounds of the game.
+Fullscreen:		You can also play the game in fullscreen mode.
+Anti Alias:		Anti-aliasing is good for the optic, but reduces the speed of the game.
+Reduce cpu usage:	This option is to reduce the usage of the cpu.
+Vsync:			Vertical sync between graphiccard and monitor.
+visibility:		With this option you can set the range of visibility to see objects in the game.
+Screen-Resolution:	Here you can change the resolution of the screen.
+
+
+
+Donation:
+---------
+3DGameWizard is Opensource, but if you find it useful, please support its development with a donation.
+Small donations also could help.
+https://www.paypal.com/us/cgi-bin/webscr?hosted_button_id=MLS8GVQ2FZMAE&cmd=_s-xclick
+
+Updates:
+--------
+For updates have a look at 3DGW.RRSoftware.de.
+
+
+(C)2008-2010 RocketRider (Michael Möbius)
+www.RRSoftware.de
